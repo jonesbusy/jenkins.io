@@ -68,6 +68,7 @@ I also want to thank author:basil[Basil Crow] for introducing the initial projec
 == Useful Links
 
 - link:https://github.com/jenkinsci/plugin-modernizer-tool[GitHub Repository]
+- link:https://github.com/jenkinsci/plugin-modernizer-tool/pulls?q=is%3Apr+is%3Aclosed+author%3Asridamul+is%3Amerged[Merged Pull Requests]
 - link:https://docs.google.com/document/d/1AWv6aEL9NU5hVW_CJl81ethsguVqqL2e7H0PYOUXnR8/edit?usp=sharing[Project specific office hours meeting notes]
 - link:https://cdeliveryfdn.slack.com/archives/C071YTZ807N[Slack Channel]
 - link:https://docs.google.com/document/d/1e1QkprPN6fLpFXk_QqBUQlJhZrAl9RvXbOXOiJ-gAuY/edit?usp=sharing[Project Proposal]
